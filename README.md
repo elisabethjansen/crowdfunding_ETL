@@ -7,3 +7,7 @@ Data for this project was provided by Edx. Code used to extract and transform al
 The created DataFrames were exported to the Resources folder. 
 
 Table schema and verification code can be found within the resources folder as schema.sql
+
+## Resources
+
+Code guided by provided starter code, class activities, and aided in debuggin by the Xpert Learning Assistant. 
